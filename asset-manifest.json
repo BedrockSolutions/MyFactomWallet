@@ -1,7 +1,7 @@
 {
   "main.css": "/MyFactomWallet/static/css/main.e2db1dac.chunk.css",
-  "main.js": "/MyFactomWallet/static/js/main.6ab491a2.chunk.js",
-  "main.js.map": "/MyFactomWallet/static/js/main.6ab491a2.chunk.js.map",
+  "main.js": "/MyFactomWallet/static/js/main.20df1c0b.chunk.js",
+  "main.js.map": "/MyFactomWallet/static/js/main.20df1c0b.chunk.js.map",
   "static/js/1.69e6cec8.chunk.js": "/MyFactomWallet/static/js/1.69e6cec8.chunk.js",
   "static/js/1.69e6cec8.chunk.js.map": "/MyFactomWallet/static/js/1.69e6cec8.chunk.js.map",
   "runtime~main.js": "/MyFactomWallet/static/js/runtime~main.2aa7f78c.js",
@@ -9,6 +9,6 @@
   "static/media/headerLogo.png": "/MyFactomWallet/static/media/headerLogo.e79a5c9c.png",
   "static/css/main.e2db1dac.chunk.css.map": "/MyFactomWallet/static/css/main.e2db1dac.chunk.css.map",
   "index.html": "/MyFactomWallet/index.html",
-  "precache-manifest.d0fa09e87ddad90a6849aa9447435438.js": "/MyFactomWallet/precache-manifest.d0fa09e87ddad90a6849aa9447435438.js",
+  "precache-manifest.f7cecd82e848377720e3f9b6bd95850c.js": "/MyFactomWallet/precache-manifest.f7cecd82e848377720e3f9b6bd95850c.js",
   "service-worker.js": "/MyFactomWallet/service-worker.js"
 }
